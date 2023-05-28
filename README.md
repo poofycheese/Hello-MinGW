@@ -1,9 +1,12 @@
 # Hello-MinGW
 
-I don't know C++, but I want to try to create a simple app using ChatGPTs help for fun. This app is a Windows Hello World app that popups native gui window. I used Eclipse 2023-03, MinGW GCC, MSYS2. 
+I don't know C++ very well, but I want to try to create a simple app using ChatGPTs help for fun. This app is a Windows Hello World app that popups native gui window. I used Eclipse 2023-03, MinGW GCC, MSYS2.
 
+MSYS2 uses pacman to install the C/C++ compiler, libs, toolchain, etc., like Arch Linux which is nice.  This link helped set that up with the Eclipse CDT plugin.  
 
+(https://www.devdungeon.com/content/how-setup-gcc-msys2-eclipse-windows-c-development)   
 
+Below is the ChatGTP conversation to get me started. 
 
 ### from ChatGTP prompt.
 
